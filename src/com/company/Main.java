@@ -15,8 +15,9 @@ public class Main {
         System.out.println("Hi, " + name + " When were you born? (YYYY-MM-dd)");
         String date = scanner.next();
         age(date, name);
+        
 
-//gdfg
+
     }
 
     public static void age(String age, String name){
